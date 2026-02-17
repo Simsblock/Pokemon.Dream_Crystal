@@ -1,2 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.png   diff=image
+#*.bdhc  text
+#*.bdhcam text
+#*.bgs   text
+#*.bld   text
+#*.per   text
+#*.pdsmap text
+#*.pdsts text
